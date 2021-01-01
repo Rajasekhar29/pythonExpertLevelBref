@@ -142,12 +142,6 @@ x = func2(5,6)
 print(x)
 
 
-
-
-
-
-
-
 # ----------------------------------------------------------------
 # Example 1 timmer decorator
 import time
